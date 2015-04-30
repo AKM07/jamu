@@ -1,7 +1,7 @@
 # Jamu
 Kumpulan Bookmark 
 
-# CSS Framework
+# CSS
 <a href="http://getbootstrap.com/">Bootstrap</a>
 <br>
 <a href="http://foundation.zurb.com/">Zurb Foundation</a> 
