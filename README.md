@@ -24,5 +24,5 @@ Kumpulan Bookmark
 #SVG
 <a href="http://snapsvg.io/">SnapSVG</a>
 
-#Turorial SVG Bahasa Inggris
+#Tutorial SVG Bahasa Inggris
 <a href="http://sarasoueidan.com/">Sara Soueidan</a>
