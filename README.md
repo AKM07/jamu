@@ -10,5 +10,3 @@ Kumpulan Bookmark
 <br>
 <a href="http://materializecss.com/">Materialize</a>
 <br>
-<a href="http://foundation.zurb.com/">Foundation</a>
-<br>
