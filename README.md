@@ -20,3 +20,7 @@ Kumpulan Bookmark
 <br>
 <a href="https://jqueryui.com/">JQueryUI</a>
 <br>
+
+
+#Turorial SVG Bahasa Inggris
+<a href="http://sarasoueidan.com/">Sara Soueidan</a>
